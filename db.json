@@ -1,0 +1,26 @@
+{
+  "thumbnail": { 
+        
+        "obra1": [{"id": 1, "name": "obra01", "link": "https://i.imgur.com/SOIn3pw.jpg"}],
+        "obra2": [{"id": 2, "name": "obra02", "link": "https://i.imgur.com/sqpKZcr.jpg"}],
+        "obra3": [{"id": 3, "name": "obra03", "link": "https://i.imgur.com/QKXrgbu.jpg"}],
+        "obra4": [{"id": 4, "name": "obra04", "link": "https://i.imgur.com/DkyCNDK.jpg"}],
+        "obra5": [{"id": 5, "name": "obra05", "link": "https://i.imgur.com/JXKbg2y.jpg"}],
+        "obra6": [{"id": 6, "name": "obra06", "link": "https://i.imgur.com/wOCgiys.jpg"}],
+        "obra7": [{"id": 7, "name": "obra07", "link": "https://i.imgur.com/0cd1Bnh.jpg"}],
+        "obra8": [{"id": 8, "name": "obra08", "link": "https://i.imgur.com/1TFgnw8.jpg"}],
+        "obra9": [{"id": 9, "name": "obra09", "link": "https://i.imgur.com/Ky4Lgg4.jpg"}],
+        "obra10": [{"id": 10, "name": "obra10", "link": "https://i.imgur.com/8k9GrO2.jpg"}],
+        "obra11": [{"id": 11, "name": "obra11", "link": "https://i.imgur.com/RXmQd0y.jpg"}],
+        "obra12": [{"id": 12, "name": "obra12", "link": "https://i.imgur.com/NSdWgLe.jpg"}],
+        "obra13": [{"id": 13, "name": "obra13", "link": "https://i.imgur.com/hAOmQsh.jpg"}],
+        "obra14": [{"id": 14, "name": "obra14", "link": "https://i.imgur.com/KuYAS1g.jpg"}],
+        "obra15": [{"id": 15, "name": "obra15", "link": "https://i.imgur.com/woQSZZE.jpg"}],
+        "obra16": [{"id": 16, "name": "obra16", "link": "https://i.imgur.com/mcbx2rA.jpg"}],
+        "obra17": [{"id": 17, "name": "obra17", "link": "https://i.imgur.com/zcODUF4.jpg"}],
+        "obra18": [{"id": 18, "name": "obra18", "link": "https://i.imgur.com/oeaEGOa.jpg"}],
+        "obra19": [{"id": 19, "name": "obra19", "link": "https://i.imgur.com/CEsgdN5.jpg"}],
+        "obra20": [{"id": 20, "name": "obra20", "link": "https://i.imgur.com/XSuYSgM.jpg"}]
+        
+    }
+}
